@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Ian Chen - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,63 +8,62 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [mc2839@cornell.edu](mailto:mc2839@cornell.edu) | | | **Phone:** +1 (718) 708-9533
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in mechanics and design. Passionate about developing adaptive technologies and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.0/4.0 | Graduation: May 2027
 
-- **[High School Name]**  
+- **Bronx High School of Science**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: June 2023
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360, SolidWorks
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** 3D Printing, Laser Cutting, Machining
 
----
+[//]:---
+[//]:-#### Projects
 
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+[//]: **[Project Title]**:  
+[//]:  *[Short Description]*  
+[//]:  - Key Achievement 1  
+[//]:  - Key Achievement 2  
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+[//]:- **[Project Title]**:  
+[//]:  *[Short Description]*  
+[//]:  - Key Achievement 1  
+[//]:  - Key Achievement 2  
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Alpha Taekwondo - Assistant Instructor**  
+  [July, 2024] - [August, 2024]  
+  - Teaching children taekwondo  
+  - Cleaning up the studio  
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- Machine Shop Certification, Cornell University, [2025]  
+- First Place, International Robotic Sailboat Regatta, [2025]  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Social Chair of the Assorted Aces   
 
 ---
 
