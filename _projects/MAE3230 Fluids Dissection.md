@@ -3,7 +3,7 @@ layout: project
 title: MAE 3230 Fluids Dissection
 technologies: [Fluid Mechanics, Mechanical Disseciton]
 description: Bike Pump Dissection
-image: assets/image.png
+image: 
 ---
 
 Bike Pump Dissection
